@@ -1,0 +1,24 @@
+C:\Users\habil\Desktop\at yarışı\at yarışı\bin\Debug\at yarışı.exe.config
+C:\Users\habil\Desktop\at yarışı\at yarışı\bin\Debug\at yarışı.exe
+C:\Users\habil\Desktop\at yarışı\at yarışı\bin\Debug\at yarışı.pdb
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.AssemblyReference.cache
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.SuggestedBindingRedirects.cache
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at_yarışı.Form1.resources
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at_yarışı.Form2.resources
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at_yarışı.Properties.Resources.resources
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.GenerateResource.cache
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.CoreCompileInputs.cache
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at yarışı.exe
+C:\Users\habil\Desktop\at yarışı\at yarışı\obj\Debug\at yarışı.pdb
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\bin\Debug\at yarışı.exe.config
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\bin\Debug\at yarışı.exe
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\bin\Debug\at yarışı.pdb
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.AssemblyReference.cache
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.SuggestedBindingRedirects.cache
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at_yarışı.Form1.resources
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at_yarışı.Form2.resources
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at_yarışı.Properties.Resources.resources
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.GenerateResource.cache
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at yarışı.csproj.CoreCompileInputs.cache
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at yarışı.exe
+C:\Users\habil\Desktop\code\at yarışı\at yarışı\obj\Debug\at yarışı.pdb
